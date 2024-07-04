@@ -32,14 +32,14 @@ Our goal is to uncover predictive insights within our dataset to efficiently all
 - #### Correlation
   - We want to remove features that are highly correlated with each other.
   - High correlation = [-1 to -0.8 , 0.8 to 1]
-- # Feature Engineering
+- ### Feature Engineering
   - It seems like we did a good job finding a relevant feature for Income, using cpm_income.
-- # More Feature Engineering
-- # Why I am not worried about multicollinearity
+- ### More Feature Engineering
+- ### Why I am not worried about multicollinearity
   - When using Univariate Time Series Models: By definition, you have only one feature.
-- # Naive Forecaster: Serving as a baseline
-- # Univariate Time Series Model
+- ### Naive Forecaster: Serving as a baseline
+- ### Univariate Time Series Model
   - Hyperparameter Search:
-- # ML
+- ### ML
   - Using 10 days to predict the next 2 days
-- # Future Work
+- ### Future Work
