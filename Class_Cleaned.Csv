@@ -1,0 +1,219 @@
+,Economy,Code,Region,Income group,Lending category
+0,Afghanistan,AFG,South Asia,Low income,IDA
+1,Albania,ALB,Europe & Central Asia,Upper middle income,IBRD
+2,Algeria,DZA,Middle East & North Africa,Upper middle income,IBRD
+3,American Samoa,ASM,East Asia & Pacific,High income,
+4,Andorra,AND,Europe & Central Asia,High income,
+5,Angola,AGO,Sub-Saharan Africa,Lower middle income,IBRD
+6,Antigua and Barbuda,ATG,Latin America & Caribbean,High income,IBRD
+7,Argentina,ARG,Latin America & Caribbean,Upper middle income,IBRD
+8,Armenia,ARM,Europe & Central Asia,Upper middle income,IBRD
+9,Aruba,ABW,Latin America & Caribbean,High income,
+10,Australia,AUS,East Asia & Pacific,High income,
+11,Austria,AUT,Europe & Central Asia,High income,
+12,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,IBRD
+13,"Bahamas, The",BHS,Latin America & Caribbean,High income,
+14,Bahrain,BHR,Middle East & North Africa,High income,
+15,Bangladesh,BGD,South Asia,Lower middle income,IDA
+16,Barbados,BRB,Latin America & Caribbean,High income,IBRD
+17,Belarus,BLR,Europe & Central Asia,Upper middle income,IBRD
+18,Belgium,BEL,Europe & Central Asia,High income,
+19,Belize,BLZ,Latin America & Caribbean,Upper middle income,Blend
+20,Benin,BEN,Sub-Saharan Africa,Lower middle income,IDA
+21,Bermuda,BMU,North America,High income,
+22,Bhutan,BTN,South Asia,Lower middle income,IDA
+23,Bolivia,BOL,Latin America & Caribbean,Lower middle income,IBRD
+24,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,IBRD
+25,Botswana,BWA,Sub-Saharan Africa,Upper middle income,IBRD
+26,Brazil,BRA,Latin America & Caribbean,Upper middle income,IBRD
+27,British Virgin Islands,VGB,Latin America & Caribbean,High income,
+28,Brunei Darussalam,BRN,East Asia & Pacific,High income,
+29,Bulgaria,BGR,Europe & Central Asia,High income,IBRD
+30,Burkina Faso,BFA,Sub-Saharan Africa,Low income,IDA
+31,Burundi,BDI,Sub-Saharan Africa,Low income,IDA
+32,Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,Blend
+33,Cambodia,KHM,East Asia & Pacific,Lower middle income,IDA
+34,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,Blend
+35,Canada,CAN,North America,High income,
+36,Cayman Islands,CYM,Latin America & Caribbean,High income,
+37,Central African Republic,CAF,Sub-Saharan Africa,Low income,IDA
+38,Chad,TCD,Sub-Saharan Africa,Low income,IDA
+39,Channel Islands,CHI,Europe & Central Asia,High income,
+40,Chile,CHL,Latin America & Caribbean,High income,IBRD
+41,China,CHN,East Asia & Pacific,Upper middle income,IBRD
+42,Colombia,COL,Latin America & Caribbean,Upper middle income,IBRD
+43,Comoros,COM,Sub-Saharan Africa,Lower middle income,IDA
+44,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Low income,IDA
+45,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,Blend
+46,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,IBRD
+47,Côte d’Ivoire,CIV,Sub-Saharan Africa,Lower middle income,IDA
+48,Croatia,HRV,Europe & Central Asia,High income,IBRD
+49,Cuba,CUB,Latin America & Caribbean,Upper middle income,
+50,Curaçao,CUW,Latin America & Caribbean,High income,
+51,Cyprus,CYP,Europe & Central Asia,High income,
+52,Czechia,CZE,Europe & Central Asia,High income,
+53,Denmark,DNK,Europe & Central Asia,High income,
+54,Djibouti,DJI,Middle East & North Africa,Lower middle income,IDA
+55,Dominica,DMA,Latin America & Caribbean,Upper middle income,Blend
+56,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,IBRD
+57,Ecuador,ECU,Latin America & Caribbean,Upper middle income,IBRD
+58,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,IBRD
+59,El Salvador,SLV,Latin America & Caribbean,Upper middle income,IBRD
+60,Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,IBRD
+61,Eritrea,ERI,Sub-Saharan Africa,Low income,IDA
+62,Estonia,EST,Europe & Central Asia,High income,
+63,Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,Blend
+64,Ethiopia,ETH,Sub-Saharan Africa,Low income,IDA
+65,Faroe Islands,FRO,Europe & Central Asia,High income,
+66,Fiji,FJI,East Asia & Pacific,Upper middle income,Blend
+67,Finland,FIN,Europe & Central Asia,High income,
+68,France,FRA,Europe & Central Asia,High income,
+69,French Polynesia,PYF,East Asia & Pacific,High income,
+70,Gabon,GAB,Sub-Saharan Africa,Upper middle income,IBRD
+71,"Gambia, The",GMB,Sub-Saharan Africa,Low income,IDA
+72,Georgia,GEO,Europe & Central Asia,Upper middle income,IBRD
+73,Germany,DEU,Europe & Central Asia,High income,
+74,Ghana,GHA,Sub-Saharan Africa,Lower middle income,IDA
+75,Gibraltar,GIB,Europe & Central Asia,High income,
+76,Greece,GRC,Europe & Central Asia,High income,
+77,Greenland,GRL,Europe & Central Asia,High income,
+78,Grenada,GRD,Latin America & Caribbean,Upper middle income,Blend
+79,Guam,GUM,East Asia & Pacific,High income,
+80,Guatemala,GTM,Latin America & Caribbean,Upper middle income,IBRD
+81,Guinea,GIN,Sub-Saharan Africa,Lower middle income,IDA
+82,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,IDA
+83,Guyana,GUY,Latin America & Caribbean,High income,IDA
+84,Haiti,HTI,Latin America & Caribbean,Lower middle income,IDA
+85,Honduras,HND,Latin America & Caribbean,Lower middle income,IDA
+86,"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,
+87,Hungary,HUN,Europe & Central Asia,High income,
+88,Iceland,ISL,Europe & Central Asia,High income,
+89,India,IND,South Asia,Lower middle income,IBRD
+90,Indonesia,IDN,East Asia & Pacific,Upper middle income,IBRD
+91,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,IBRD
+92,Iraq,IRQ,Middle East & North Africa,Upper middle income,IBRD
+93,Ireland,IRL,Europe & Central Asia,High income,
+94,Isle of Man,IMN,Europe & Central Asia,High income,
+95,Israel,ISR,Middle East & North Africa,High income,
+96,Italy,ITA,Europe & Central Asia,High income,
+97,Jamaica,JAM,Latin America & Caribbean,Upper middle income,IBRD
+98,Japan,JPN,East Asia & Pacific,High income,
+99,Jordan,JOR,Middle East & North Africa,Lower middle income,IBRD
+100,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,IBRD
+101,Kenya,KEN,Sub-Saharan Africa,Lower middle income,Blend
+102,Kiribati,KIR,East Asia & Pacific,Lower middle income,IDA
+103,"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Low income,
+104,"Korea, Rep.",KOR,East Asia & Pacific,High income,
+105,Kosovo,XKX,Europe & Central Asia,Upper middle income,IDA
+106,Kuwait,KWT,Middle East & North Africa,High income,
+107,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,IDA
+108,Lao PDR,LAO,East Asia & Pacific,Lower middle income,IDA
+109,Latvia,LVA,Europe & Central Asia,High income,
+110,Lebanon,LBN,Middle East & North Africa,Lower middle income,IBRD
+111,Lesotho,LSO,Sub-Saharan Africa,Lower middle income,IDA
+112,Liberia,LBR,Sub-Saharan Africa,Low income,IDA
+113,Libya,LBY,Middle East & North Africa,Upper middle income,IBRD
+114,Liechtenstein,LIE,Europe & Central Asia,High income,
+115,Lithuania,LTU,Europe & Central Asia,High income,
+116,Luxembourg,LUX,Europe & Central Asia,High income,
+117,"Macao SAR, China",MAC,East Asia & Pacific,High income,
+118,Madagascar,MDG,Sub-Saharan Africa,Low income,IDA
+119,Malawi,MWI,Sub-Saharan Africa,Low income,IDA
+120,Malaysia,MYS,East Asia & Pacific,Upper middle income,IBRD
+121,Maldives,MDV,South Asia,Upper middle income,IDA
+122,Mali,MLI,Sub-Saharan Africa,Low income,IDA
+123,Malta,MLT,Middle East & North Africa,High income,
+124,Marshall Islands,MHL,East Asia & Pacific,Upper middle income,IDA
+125,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,IDA
+126,Mauritius,MUS,Sub-Saharan Africa,Upper middle income,IBRD
+127,Mexico,MEX,Latin America & Caribbean,Upper middle income,IBRD
+128,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,IDA
+129,Moldova,MDA,Europe & Central Asia,Upper middle income,IBRD
+130,Monaco,MCO,Europe & Central Asia,High income,
+131,Mongolia,MNG,East Asia & Pacific,Upper middle income,IBRD
+132,Montenegro,MNE,Europe & Central Asia,Upper middle income,IBRD
+133,Morocco,MAR,Middle East & North Africa,Lower middle income,IBRD
+134,Mozambique,MOZ,Sub-Saharan Africa,Low income,IDA
+135,Myanmar,MMR,East Asia & Pacific,Lower middle income,IDA
+136,Namibia,NAM,Sub-Saharan Africa,Upper middle income,IBRD
+137,Nauru,NRU,East Asia & Pacific,High income,IBRD
+138,Nepal,NPL,South Asia,Lower middle income,IDA
+139,Netherlands,NLD,Europe & Central Asia,High income,
+140,New Caledonia,NCL,East Asia & Pacific,High income,
+141,New Zealand,NZL,East Asia & Pacific,High income,
+142,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,IDA
+143,Niger,NER,Sub-Saharan Africa,Low income,IDA
+144,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,Blend
+145,North Macedonia,MKD,Europe & Central Asia,Upper middle income,IBRD
+146,Northern Mariana Islands,MNP,East Asia & Pacific,High income,
+147,Norway,NOR,Europe & Central Asia,High income,
+148,Oman,OMN,Middle East & North Africa,High income,
+149,Pakistan,PAK,South Asia,Lower middle income,Blend
+150,Palau,PLW,East Asia & Pacific,High income,IBRD
+151,Panama,PAN,Latin America & Caribbean,High income,IBRD
+152,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,Blend
+153,Paraguay,PRY,Latin America & Caribbean,Upper middle income,IBRD
+154,Peru,PER,Latin America & Caribbean,Upper middle income,IBRD
+155,Philippines,PHL,East Asia & Pacific,Lower middle income,IBRD
+156,Poland,POL,Europe & Central Asia,High income,IBRD
+157,Portugal,PRT,Europe & Central Asia,High income,
+158,Puerto Rico,PRI,Latin America & Caribbean,High income,
+159,Qatar,QAT,Middle East & North Africa,High income,
+160,Romania,ROU,Europe & Central Asia,High income,IBRD
+161,Russian Federation,RUS,Europe & Central Asia,High income,IBRD
+162,Rwanda,RWA,Sub-Saharan Africa,Low income,IDA
+163,Samoa,WSM,East Asia & Pacific,Lower middle income,IDA
+164,San Marino,SMR,Europe & Central Asia,High income,
+165,São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower middle income,IDA
+166,Saudi Arabia,SAU,Middle East & North Africa,High income,
+167,Senegal,SEN,Sub-Saharan Africa,Lower middle income,IDA
+168,Serbia,SRB,Europe & Central Asia,Upper middle income,IBRD
+169,Seychelles,SYC,Sub-Saharan Africa,High income,IBRD
+170,Sierra Leone,SLE,Sub-Saharan Africa,Low income,IDA
+171,Singapore,SGP,East Asia & Pacific,High income,
+172,Sint Maarten (Dutch part),SXM,Latin America & Caribbean,High income,
+173,Slovak Republic,SVK,Europe & Central Asia,High income,
+174,Slovenia,SVN,Europe & Central Asia,High income,
+175,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,IDA
+176,Somalia,SOM,Sub-Saharan Africa,Low income,IDA
+177,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,IBRD
+178,South Sudan,SSD,Sub-Saharan Africa,Low income,IDA
+179,Spain,ESP,Europe & Central Asia,High income,
+180,Sri Lanka,LKA,South Asia,Lower middle income,IDA
+181,St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,IBRD
+182,St. Lucia,LCA,Latin America & Caribbean,Upper middle income,Blend
+183,St. Martin (French part),MAF,Latin America & Caribbean,High income,
+184,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,Blend
+185,Sudan,SDN,Sub-Saharan Africa,Low income,IDA
+186,Suriname,SUR,Latin America & Caribbean,Upper middle income,IBRD
+187,Sweden,SWE,Europe & Central Asia,High income,
+188,Switzerland,CHE,Europe & Central Asia,High income,
+189,Syrian Arab Republic,SYR,Middle East & North Africa,Low income,IDA
+190,"Taiwan, China",TWN,East Asia & Pacific,High income,
+191,Tajikistan,TJK,Europe & Central Asia,Lower middle income,IDA
+192,Tanzania,TZA,Sub-Saharan Africa,Lower middle income,IDA
+193,Thailand,THA,East Asia & Pacific,Upper middle income,IBRD
+194,Timor-Leste,TLS,East Asia & Pacific,Lower middle income,Blend
+195,Togo,TGO,Sub-Saharan Africa,Low income,IDA
+196,Tonga,TON,East Asia & Pacific,Upper middle income,IDA
+197,Trinidad and Tobago,TTO,Latin America & Caribbean,High income,IBRD
+198,Tunisia,TUN,Middle East & North Africa,Lower middle income,IBRD
+199,Türkiye,TUR,Europe & Central Asia,Upper middle income,IBRD
+200,Turkmenistan,TKM,Europe & Central Asia,Upper middle income,IBRD
+201,Turks and Caicos Islands,TCA,Latin America & Caribbean,High income,
+202,Tuvalu,TUV,East Asia & Pacific,Upper middle income,IDA
+203,Uganda,UGA,Sub-Saharan Africa,Low income,IDA
+204,Ukraine,UKR,Europe & Central Asia,Upper middle income,IBRD
+205,United Arab Emirates,ARE,Middle East & North Africa,High income,
+206,United Kingdom,GBR,Europe & Central Asia,High income,
+207,United States,USA,North America,High income,
+208,Uruguay,URY,Latin America & Caribbean,High income,IBRD
+209,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,Blend
+210,Vanuatu,VUT,East Asia & Pacific,Lower middle income,IDA
+211,"Venezuela, RB",VEN,Latin America & Caribbean,,IBRD
+212,Vietnam,VNM,East Asia & Pacific,Lower middle income,IBRD
+213,Virgin Islands (U.S.),VIR,Latin America & Caribbean,High income,
+214,West Bank and Gaza,PSE,Middle East & North Africa,Lower middle income,
+215,"Yemen, Rep.",YEM,Middle East & North Africa,Low income,IDA
+216,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,IDA
+217,Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,Blend
