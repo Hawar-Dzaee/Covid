@@ -42,4 +42,3 @@ Our goal is to uncover predictive insights within our dataset to efficiently all
   - Hyperparameter Search:
 - ### ML
   - Using 10 days to predict the next 2 days
-- ### Future Work
